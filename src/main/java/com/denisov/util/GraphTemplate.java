@@ -1,6 +1,6 @@
 package com.denisov.util;
 
-import com.denisov.study.graph.Edge;
+import com.denisov.algorithms.graph.Edge;
 
 import java.util.Arrays;
 import java.util.List;
